@@ -1,3 +1,4 @@
+![Testrepo](cover.jpg)
 # NUEJS testrepo
 [Nuejs](https://nuejs.org/)
 ## Vajalik
